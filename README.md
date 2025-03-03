@@ -3,7 +3,7 @@
 ## Stupid Keylogger for education purpose written in Python
 
 ### Features
-- Send Logs to email
+- Send Logs to email (specify server, port, username, password, etc)
 - AES encryption
 
 
