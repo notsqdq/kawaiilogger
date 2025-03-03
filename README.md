@@ -12,3 +12,4 @@
 - GUI with Tkinter for easy configuration
 - Hide kawaiilogger in ordinary exe file
 - More assistant implementation
+- FTP server implementation
