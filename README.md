@@ -3,5 +3,10 @@
 ## Stupid Keylogger for education purpose written in Python
 
 ### Features
-- Keypress Logs
+- Send Logs to email
 - AES encryption
+
+
+### Features to come
+- GUI with Tkinter for easy configuration
+- Hide kawaiilogger in ordinary exe file
