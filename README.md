@@ -5,7 +5,7 @@
 ### Features
 - Send Logs to email (specify server, port, username, password, etc)
 - AES encryption
-- Kawaii-ish verbosity
+- Anime-ish verbosity
 
 
 ### Features to come
